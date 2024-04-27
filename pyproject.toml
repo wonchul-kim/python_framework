@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dlvc"
+version = "0.1.0"
+description = "deep learning for computer vision"
+authors = ["wonchul"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
